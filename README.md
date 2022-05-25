@@ -23,7 +23,7 @@ input[type=checkbox] {
 }
 .ana2{
 width: 65px;
-height: 15
+height: 15px;
 }
 .start {
   text-decoration: none;
