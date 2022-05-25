@@ -10,15 +10,15 @@ input[type=checkbox] {
 }
 .start{
     width: 150px;
-    padding: 10px;
+    padding: 25px;
     box-sizing: border-box;
     border: 1px solid #68779a;
     background: #cbe8fa;
     cursor: pointer;
 }
 .ana{
-    width: 145px;
-    padding: 23px;
+    width: 100px;
+    padding: 10px;
 }
 .start {
   text-decoration: none;
