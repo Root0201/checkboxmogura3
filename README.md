@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -103,7 +102,7 @@ window.onload = function() {
 <body>
 <center>
 	<form name="moguratataki">
-		<input type="button" name="start" value="start" class="start"></br>
+		<input type="button" name="start" value="start" class="start"><br></br>
 		<input type="text" name="time" value="0" size="5" class="ana" readonly>
 		<input type="text" name="point" value="0" size="5" class="ana" readonly>
 		<div style="margin:50px;">
