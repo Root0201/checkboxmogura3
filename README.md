@@ -18,7 +18,7 @@ input[type=checkbox] {
 }
 .ana{
     width: 100px;
-    padding: 10px;
+    padding: 30px;
 }
 .start {
   text-decoration: none;
