@@ -4,8 +4,8 @@
 <title>チェックボックスたたき（モグラたたき）</title>
 <style>
 input[type=checkbox] {
-    width: 70px;
-    height: 70px;
+    width: 50px;
+    height: 50px;
     vertical-align: middle;
 }
 .start{
@@ -17,8 +17,8 @@ input[type=checkbox] {
     cursor: pointer;
 }
 .ana{
-    width: 100px;
-    padding: 10px;
+    width: 150px;
+    padding: 25px;
 }
 .start {
   text-decoration: none;
