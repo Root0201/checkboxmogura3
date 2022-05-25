@@ -22,7 +22,7 @@ input[type=checkbox] {
     padding: 30px;
 }
 .ana2{
-    width: 65px;
+    width: 150px;
     padding: 15px;
     font-size: 10px;
 }
