@@ -87,7 +87,7 @@ window.onload = function() {
 				document.moguratataki.ana[j].disabled = false;
 				document.moguratataki.ana[j].checked = true;
 			}
-			setTimeout(mogura, 850);
+			setTimeout(mogura, 830);
 		}
 	}
 
