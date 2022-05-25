@@ -104,6 +104,7 @@ window.onload = function() {
 	<form name="moguratataki">
 		<input type="button" name="start" value="start" class="start">
 		                             <br>
+		                             <br>
 		<input type="text" name="time" value="0" size="5" class="ana" readonly>
 		<input type="text" name="point" value="0" size="5" class="ana" readonly>
 		<div style="margin:50px;">
