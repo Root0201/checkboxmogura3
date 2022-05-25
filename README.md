@@ -32,7 +32,7 @@ input[type=checkbox] {
   padding: 10px 0;
   line-height: 1;
   font-size: 25px;
-  margin-top: 500px;
+  margin-top: 350px;
   box-shadow: 0 5px 0 rgba(0, 0, 0, 0.2);
   width: 200px;
 }
