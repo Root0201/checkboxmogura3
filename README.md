@@ -1,5 +1,4 @@
 <html>
-<h1>↓下にあるよ</h1>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>チェックボックスたたき（モグラたたき）</title>
