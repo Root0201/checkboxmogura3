@@ -10,7 +10,7 @@ input[type=checkbox] {
     vertical-align: middle;
 }
 .start{
-    width: 150px;
+    width: 200px;
     padding: 25px;
     box-sizing: border-box;
     border: 1px solid #68779a;
@@ -19,7 +19,7 @@ input[type=checkbox] {
 }
 .ana{
     width: 100px;
-    padding: 40px;
+    padding: 30px;
 }
 .start {
   text-decoration: none;
