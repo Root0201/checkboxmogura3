@@ -10,7 +10,7 @@ input[type=checkbox] {
 }
 .start{
     width: 150px;
-    padding: 25px;
+    padding: 10px;
     box-sizing: border-box;
     border: 1px solid #68779a;
     background: #cbe8fa;
