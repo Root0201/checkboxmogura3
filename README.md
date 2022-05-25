@@ -17,7 +17,7 @@ input[type=checkbox] {
     cursor: pointer;
 }
 .ana{
-    width: 100px;
+    width: 200px;
     padding: 25px;
 }
 .start {
