@@ -2,13 +2,13 @@
 <h1>↓下にあるよ</h1>
 <head>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SBHQJ4W96Z"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FS3WN7E3DE"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-SBHQJ4W96Z');
+  gtag('config', 'G-FS3WN7E3DE');
 </script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>チェックボックスモグラたたきVol.3</title>
