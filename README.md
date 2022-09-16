@@ -71,32 +71,32 @@ window.onload = function() {
 
 	function tokei() {
 		time = Math.floor((Date.now() - startTime) / 1000);
-		if (time >= 10) {
+		if (time >= 30) {
 			for (var i = 0; i < document.moguratataki.ana.length; ++i) {
 				document.moguratataki.ana[i].disabled = true;
 			}
-			document.moguratataki.time.value = 10;
-			alert('終了！ ' + document.moguratataki.point.value + '匹たたきました');
+			document.moguratataki.time.value = 30;
+			alert('ぷっww ' + document.moguratataki.point.value + '匹WWWWW');
 			document.moguratataki.start.disabled = false;
 			return;
 		}
 		document.moguratataki.time.value = time;
-		setTimeout(tokei, 100);
+		setTimeout(tokei, 300);
 	}
 
 	function mogura() {
-		if (time < 10) {
+		if (time < 30) {
 			document.moguratataki.time.value = time;
 			for (var i = 0; i < document.moguratataki.ana.length; ++i) {
 				document.moguratataki.ana[i].disabled = true;
 				document.moguratataki.ana[i].checked = false;
 			}
-			for (var i = 0; i < 3; ++i) {
+			for (var i = 0; i < 4; ++i) {
 				var j = Math.floor(document.moguratataki.ana.length * Math.random());
 				document.moguratataki.ana[j].disabled = false;
 				document.moguratataki.ana[j].checked = true;
 			}
-			setTimeout(mogura, 805);
+			setTimeout(mogura, 830);
 		}
 	}
 
@@ -120,8 +120,8 @@ window.onload = function() {
 		<input type="button" name="start" value="start" class="start">
 		                             <br>
 		                             <br>
-		<input type="text" name="time" value="0" size="5" class="ana2" readonly>Time:
-		<input type="text" name="point" value="0" size="5" class="ana2" readonly>Score:
+		<input type="text" name="time" value="0" size="5" class="ana2" readonly>
+		<input type="text" name="point" value="0" size="5" class="ana2" readonly>
 		<div style="margin:50px;">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
@@ -132,13 +132,13 @@ window.onload = function() {
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
-                                            <br>
-                                            <input type="checkbox" name="ana">
+                        <br>
+                        <input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
-                                            <br> 
-                                            <input type="checkbox" name="ana">
+                        <br> 
+                        <input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
