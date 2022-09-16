@@ -117,8 +117,8 @@ window.onload = function() {
 		<input type="button" name="start" value="start" class="start">
 		<br>
 		<br>
-		<input type="text" name="time" value="Time:0" size="5" class="ana2" readonly>
-		<input type="text" name="point" value="0" size="5" class="ana2" readonly>
+		<input type="text" name="time" value="Time" size="4" class="ana2" readonly>
+		<input type="text" name="point" value="Score" size="4" class="ana2" readonly>
 		<div style="margin:50px;">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
