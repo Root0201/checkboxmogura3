@@ -120,8 +120,8 @@ window.onload = function() {
 		<input type="button" name="start" value="start" class="start">
 		                             <br>
 		                             <br>
-		<input type="text" name="time" value="0" size="5" class="ana2" readonly>
-		<input type="text" name="point" value="0" size="5" class="ana2" readonly>
+		<input type="text" name="time" value="0" size="5" class="ana2" readonly>Time:
+		<input type="text" name="point" value="0" size="5" class="ana2" readonly>Score:
 		<div style="margin:50px;">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
