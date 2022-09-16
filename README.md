@@ -75,7 +75,7 @@ window.onload = function() {
 			for (var i = 0; i < document.moguratataki.ana.length; ++i) {
 				document.moguratataki.ana[i].disabled = true;
 			}
-			document.moguratataki.time.value = 30;
+			document.moguratataki.time.value = 3;
 			alert('ぷっww ' + document.moguratataki.point.value + '匹WWWWW');
 			document.moguratataki.start.disabled = false;
 			return;
