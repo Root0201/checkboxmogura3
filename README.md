@@ -1,7 +1,5 @@
 <html>
-<h1>↓下にあるよ</h1>
 <head>
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FS3WN7E3DE"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -11,7 +9,6 @@
   gtag('config', 'G-FS3WN7E3DE');
 </script>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<title>チェックボックスモグラたたきVol.3</title>
 <style>
 input[type=checkbox] {
     width: 50px;
@@ -75,7 +72,7 @@ window.onload = function() {
 			for (var i = 0; i < document.moguratataki.ana.length; ++i) {
 				document.moguratataki.ana[i].disabled = true;
 			}
-			document.moguratataki.time.value = 3;
+			document.moguratataki.time.value = 30;
 			alert('ぷっww ' + document.moguratataki.point.value + '匹WWWWW');
 			document.moguratataki.start.disabled = false;
 			return;
@@ -118,8 +115,8 @@ window.onload = function() {
 <center>
 	<form name="moguratataki">
 		<input type="button" name="start" value="start" class="start">
-		                             <br>
-		                             <br>
+		<br>
+		<br>
 		<input type="text" name="time" value="0" size="5" class="ana2" readonly>
 		<input type="text" name="point" value="0" size="5" class="ana2" readonly>
 		<div style="margin:50px;">
