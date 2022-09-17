@@ -42,9 +42,6 @@ input[type=checkbox] {
     padding: 20px;
     font-size: 20px; 
 }
-.ana{
-    margin: 500px;
-}
 </style>
 <script>
 window.onload = function() {
@@ -116,7 +113,7 @@ window.onload = function() {
 		<br>
 		<input type="text" name="time" value="Time" size="4" class="ana2" readonly>
 		<input type="text" name="point" value="Score" size="4" class="ana2" readonly>
-		<div style="margin:50px;">
+		<div style="margin:20px;">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
