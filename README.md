@@ -43,7 +43,7 @@ input[type=checkbox] {
     font-size: 20px; 
 }
 .ana{
-    margin: 10px;
+    margin: 20px;
 }
 </style>
 <script>
@@ -90,7 +90,7 @@ window.onload = function() {
 				document.moguratataki.ana[j].disabled = false;
 				document.moguratataki.ana[j].checked = true;
 			}
-			setTimeout(mogura, 900);
+			setTimeout(mogura, 950);
 		}
 	}
 
