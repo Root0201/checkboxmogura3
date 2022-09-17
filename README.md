@@ -38,9 +38,9 @@ input[type=checkbox] {
   width: 200px;
 }
 .ana2{
-    width: 100px;
-    padding: 20px;
-    font-size: 20px; 
+    width: 150px;
+    padding: 10px;
+    font-size: 30px; 
 }
 .ana{
    margin: 10;
@@ -112,7 +112,6 @@ window.onload = function() {
 <center>
 	<form name="moguratataki">
 		<input type="button" name="start" value="start" class="start">
-		<br>
 		<br>
 		<input type="text" name="time" value="Time" size="4" class="ana2" readonly>
 		<input type="text" name="point" value="Score" size="4" class="ana2" readonly>
