@@ -24,12 +24,12 @@ input[type=checkbox] {
     cursor: pointer;
 }
 .ana{
-    width: 100px;
-    padding: 30px;
+    width: 150px;
+    padding: 50px;
 }
 .ana2{
     width: 100px;
-    padding: 15px;
+    padding: 20px;
     font-size: 20px;
 }
 .start {
