@@ -11,8 +11,8 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <style>
 input[type=checkbox] {
-    width: 50px;
-    height: 50px;
+    width: 75px;
+    height: 75px;
     vertical-align: middle;
 }
 .start{
@@ -25,7 +25,7 @@ input[type=checkbox] {
 }
 .ana{
     width: 150px;
-    padding: 50px;
+    padding: 500px;
 }
 .ana2{
     width: 100px;
