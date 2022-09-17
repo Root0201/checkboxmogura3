@@ -119,20 +119,20 @@ window.onload = function() {
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
 			<br>
-			<input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
+			<input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
                         <br>
-                        <input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
+                        <input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
                         <br> 
-                        <input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
-			<input type="checkbox" name="ana">
+                        <input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
+			<input type="checkbox" name="ana" class="ana">
 		</div>
 	</form>
 </center>
