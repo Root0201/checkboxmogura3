@@ -70,7 +70,7 @@ window.onload = function() {
 				document.moguratataki.ana[i].disabled = true;
 			}
 			document.moguratataki.time.value = 30;
-			alert('ぷっww ' + document.moguratataki.point.value + '匹WWWWW');
+			alert('ざっこww ' + document.moguratataki.point.value + '匹WWWWW');
 			document.moguratataki.start.disabled = false;
 			return;
 		}
