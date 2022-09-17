@@ -16,23 +16,12 @@ input[type=checkbox] {
     vertical-align: middle;
 }
 .start{
-    width: 200px;
-    padding: 25px;
-    box-sizing: border-box;
-    border: 1px solid #68779a;
-    background: #cbe8fa;
-    cursor: pointer;
-}
-.ana{
-    width: 150px;
-    padding: 500px;
-}
-.ana2{
-    width: 100px;
-    padding: 20px;
-    font-size: 20px;
-}
-.start {
+  width: 200px;
+  padding: 25px;
+  box-sizing: border-box;
+  border: 1px solid #68779a;
+  background: #cbe8fa;
+  cursor: pointer;
   text-decoration: none;
   display: block;
   background: gray;
@@ -47,6 +36,15 @@ input[type=checkbox] {
   margin-top: 350px;
   box-shadow: 0 5px 0 rgba(0, 0, 0, 0.2);
   width: 200px;
+}
+.ana2{
+    width: 100px;
+    padding: 20px;
+    font-size: 20px; 
+}
+.ana{
+    width: 150px;
+    padding: 500px;
 }
 </style>
 <script>
