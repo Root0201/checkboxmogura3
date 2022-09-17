@@ -38,8 +38,7 @@ input[type=checkbox] {
   width: 200px;
 }
 .ana2{
-    width: 150px;
-    padding: 10px;
+    width: 125px;
     font-size: 30px; 
 }
 .ana{
