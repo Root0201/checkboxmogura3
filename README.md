@@ -42,7 +42,7 @@ input[type=checkbox] {
     font-size: 30px;
 }
 .ana{
-   margin: 10;
+   margin: 10px;
 }
 </style>
 <script>
