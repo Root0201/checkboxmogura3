@@ -39,8 +39,7 @@ input[type=checkbox] {
 }
 .ana2{
     width: 125px;
-    font-size: 30px; 
-　  text-align: center;
+    font-size: 30px;
 }
 .ana{
    margin: 10;
@@ -113,8 +112,8 @@ window.onload = function() {
 	<form name="moguratataki">
 		<input type="button" name="start" value="start" class="start">
 		<br>
-		<input type="text" name="time" value="Time" size="4" class="ana2" readonly>
-		<input type="text" name="point" value="Score" size="4" class="ana2" readonly>
+		<input type="text" name="time" value="Time" style="text-align:center" size="4" class="ana2" readonly>
+		<input type="text" name="point" value="Score" size="4" style="text-align:center" class="ana2" readonly>
 		<div style="margin:20px;">
 			<input type="checkbox" name="ana">
 			<input type="checkbox" name="ana">
