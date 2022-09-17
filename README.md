@@ -65,7 +65,7 @@ window.onload = function() {
 
 	function tokei() {
 		time = Math.floor((Date.now() - startTime) / 1000);
-		if (time <= 30) {
+		if (time >= 30) {
 			for (var i = 0; i < document.moguratataki.ana.length; ++i) {
 				document.moguratataki.ana[i].disabled = true;
 			}
