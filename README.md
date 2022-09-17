@@ -64,12 +64,12 @@ window.onload = function() {
 	}
 
 	function tokei() {
-		time = Math.floor((30 - startTime) / 1000);
+		time = Math.floor((3000 - Date.now() - startTime) / 1000);
 		if (time <= 30) {
 			for (var i = 0; i < document.moguratataki.ana.length; ++i) {
 				document.moguratataki.ana[i].disabled = true;
 			}
-			document.moguratataki.time.value = 30;
+			document.moguratataki.time.value = 0;
 			alert('ぷっww ' + document.moguratataki.point.value + '匹WWWWW');
 			document.moguratataki.start.disabled = false;
 			return;
