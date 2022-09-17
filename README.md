@@ -42,6 +42,9 @@ input[type=checkbox] {
     padding: 20px;
     font-size: 20px; 
 }
+.ana{
+   margin: 10;
+}
 </style>
 <script>
 window.onload = function() {
